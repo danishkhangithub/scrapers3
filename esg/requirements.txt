@@ -1,0 +1,9 @@
+xlrd==1.2.0
+requests
+selenium==3.141.0
+bs4
+langdetect
+fake-useragent
+numpy
+python-dateutil
+pytz
