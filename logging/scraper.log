@@ -1,0 +1,5 @@
+11-09-21 20:04:26 - Starting new HTTPS connection (1): www.amazon.co.uk:443
+11-09-21 20:04:27 - https://www.amazon.co.uk:443 "GET /dp/%7Basin%7D HTTP/1.1" 200 2294
+11-09-21 20:04:27 - https://www.amazon.co.uk:443 "GET /dp/%7Basin%7D HTTP/1.1" 200 2293
+11-09-21 20:04:28 - https://www.amazon.co.uk:443 "GET /dp/%7Basin%7D HTTP/1.1" 200 2295
+11-09-21 20:04:29 - https://www.amazon.co.uk:443 "GET /dp/%7Basin%7D HTTP/1.1" 200 2295
